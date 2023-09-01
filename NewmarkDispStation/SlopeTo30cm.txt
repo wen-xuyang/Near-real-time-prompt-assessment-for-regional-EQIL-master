@@ -1,0 +1,4 @@
+Epicentre
+-1	Name
+0
+Stationname	x	y	slpoe

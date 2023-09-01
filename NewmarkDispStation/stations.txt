@@ -1,0 +1,4 @@
+е№жа
+	
+-1
+Name	x	y	C	phi	gamma	slope	lithoClass

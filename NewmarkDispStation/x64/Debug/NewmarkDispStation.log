@@ -1,0 +1,28 @@
+﻿  groundmotion.cpp
+  NearestPoint.cpp
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\NearestPoint.cpp(96,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\NearestPoint.cpp(97,24): warning C4244: '=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\NearestPoint.cpp(146,18): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  Newmark_landslide.cpp
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Newmark_landslide.cpp(295,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Newmark_landslide.cpp(298,83): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Stat.h(24,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Newmark_landslide.cpp(186): message : see reference to function template instantiation 'T Stat::getMedian<double>(std::vector<double,std::allocator<double>>)' being compiled
+          with
+          [
+              T=double
+          ]
+  Stat.cpp
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Stat.cpp(36,15): warning C4244: 'return': conversion from 'double' to 'int', possible loss of data
+C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\Stat.cpp(130,19): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'double', possible loss of data
+  station.cpp
+  Generating Code...
+  NewmarkDispStation.vcxproj -> C:\Users\makabaka\Documents\git projects\Near-real-time-prompt-assessment-for-regional-EQIL-master\NewmarkDispStation\x64\Debug\NewmarkDispStationSingle.exe
